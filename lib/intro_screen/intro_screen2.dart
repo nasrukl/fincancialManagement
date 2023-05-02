@@ -17,7 +17,7 @@ class IntroScreen2 extends StatelessWidget {
             ),
           ),
           Padding(
-            padding: const EdgeInsets.only(top: 28.0),
+            padding: const EdgeInsets.only(top: 24),
             child: Text(
               'The best way to\nManage  your\nFinance is with us...',
               style: TextStyle(
@@ -27,7 +27,7 @@ class IntroScreen2 extends StatelessWidget {
             ),
           ),
           Padding(
-            padding: const EdgeInsets.only(top: 32.0),
+            padding: const EdgeInsets.only(top: 20),
             child: Text(
               'Make your life easier with comprehensive\nintegration support that allows financial\n       planning to be more seamless',
               style: TextStyle(
